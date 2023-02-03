@@ -7,4 +7,5 @@ dfasf
 asf
 
 sa
-rebase olmadan test et
+rebase olmadan test e
+ilk branchde testt
